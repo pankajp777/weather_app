@@ -1,3 +1,3 @@
 This is read me kitna fakir madar 
 
-taray baap ka kuta git pull
+taray baap ka kuta git pull kidar
