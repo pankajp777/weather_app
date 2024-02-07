@@ -22,6 +22,9 @@ app.get('',(re,res) =>{
         
 })
 
+
+
+
 app.get('/help',(re,res) =>{
     res.render("help",{ title: 'this tile',
         body: 'this body'})
