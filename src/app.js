@@ -23,7 +23,9 @@ app.get('',(re,res) =>{
 })
 
 
-//Kitna hain
+//Kitna haindham 
+//main hu kamm 
+
 
 app.get('/help',(re,res) =>{
     res.render("help",{ title: 'this tile',
